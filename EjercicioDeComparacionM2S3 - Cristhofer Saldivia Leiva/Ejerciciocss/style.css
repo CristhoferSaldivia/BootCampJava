@@ -1,0 +1,31 @@
+/* Borde y tamaño de la tabla */
+
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+/* Estilo de las columnas */
+td {
+width: 100px;
+height: 50px;
+text-align: center;
+color: white;
+font-weight: bold;
+border: 1px solid white;
+}
+
+/* Colores para cada columna */
+.rojo { background-color: red; }
+.blanco { background-color: white; color: black; }
+.verde { background-color: green; }
+.gris { background-color: gray; }
+.cafe { background-color: brown; }
+.azul { background-color: blue; }
+.violeta { background-color: violet; }
+.rosado { background-color: pink; color: black; }
+.turquesa { background-color: turquoise; color: black; }
+.naranja { background-color: orange; }
+.purpura { background-color: purple; }
+.amarillo { background-color: yellow; color: black; }
+.negro { background-color: black; }

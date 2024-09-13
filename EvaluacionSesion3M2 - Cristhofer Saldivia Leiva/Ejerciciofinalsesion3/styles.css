@@ -1,0 +1,50 @@
+/* Estilo del body */ 
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Estilo general para los botones*/
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+/* colores boton primario*/
+.primary-btn {
+    background-color: #3498db;
+}
+.primary-btn:hover {
+    background-color: #328cc9;
+}
+
+/* colores boton secundario*/
+.secondary-btn {
+    background-color: #2ecc71;
+}
+.secondary-btn:hover {
+    background-color: #37e780;
+}
+
+/* colores boton exito*/
+.success-btn {
+    background-color: #27ae60;
+}
+.success-btn:hover {
+    background-color: #2ac069;
+}
+
+/* colores boton danger*/
+.danger-btn {
+    background-color: #e74c3c;
+}
+.danger-btn:hover {
+    background-color: #d44434;
+}
